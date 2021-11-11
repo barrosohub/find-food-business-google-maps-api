@@ -1,1 +1,1 @@
-# find-food-business-google-map-api
+# find-food-business-google-maps-api
